@@ -1,0 +1,44 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 30px;
+}
+
+#container {
+  width: 80%;
+  margin: 40px auto;
+  text-align: center;
+}
+
+tbody tr {
+  cursor: pointer;
+}
+thead tr th {
+  color: orange;
+}
+
+#containers {
+  width: 40%;
+  margin: 40px auto;
+  border: 1px solid #ced4da;
+  padding-bottom: 10px;
+}
+
+#containers a {
+  margin-left: 22px;
+}
+form {
+  margin: 20px;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+.infos {
+  padding: 25px;
+}
